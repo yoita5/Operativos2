@@ -1,0 +1,183 @@
+{
+  "bitmap": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "bloques": [
+    {
+      "id": 0,
+      "ocupado": false
+    },
+    {
+      "id": 1,
+      "ocupado": false
+    },
+    {
+      "id": 2,
+      "ocupado": false
+    },
+    {
+      "id": 3,
+      "ocupado": false
+    },
+    {
+      "id": 4,
+      "ocupado": false
+    },
+    {
+      "id": 5,
+      "ocupado": false
+    },
+    {
+      "id": 6,
+      "ocupado": false
+    },
+    {
+      "id": 7,
+      "ocupado": false
+    },
+    {
+      "id": 8,
+      "ocupado": false
+    },
+    {
+      "id": 9,
+      "ocupado": false
+    },
+    {
+      "id": 10,
+      "ocupado": false
+    },
+    {
+      "id": 11,
+      "ocupado": false
+    },
+    {
+      "id": 12,
+      "ocupado": false
+    },
+    {
+      "id": 13,
+      "ocupado": false
+    },
+    {
+      "id": 14,
+      "ocupado": false
+    },
+    {
+      "id": 15,
+      "ocupado": false
+    },
+    {
+      "id": 16,
+      "ocupado": false
+    },
+    {
+      "id": 17,
+      "ocupado": false
+    },
+    {
+      "id": 18,
+      "ocupado": false
+    },
+    {
+      "id": 19,
+      "ocupado": false
+    },
+    {
+      "id": 20,
+      "ocupado": false
+    },
+    {
+      "id": 21,
+      "ocupado": false
+    },
+    {
+      "id": 22,
+      "ocupado": false
+    },
+    {
+      "id": 23,
+      "ocupado": false
+    },
+    {
+      "id": 24,
+      "ocupado": false
+    },
+    {
+      "id": 25,
+      "ocupado": false
+    },
+    {
+      "id": 26,
+      "ocupado": false
+    },
+    {
+      "id": 27,
+      "ocupado": false
+    },
+    {
+      "id": 28,
+      "ocupado": false
+    },
+    {
+      "id": 29,
+      "ocupado": false
+    },
+    {
+      "id": 30,
+      "ocupado": false
+    },
+    {
+      "id": 31,
+      "ocupado": false
+    },
+    {
+      "id": 32,
+      "ocupado": false
+    },
+    {
+      "id": 33,
+      "ocupado": false
+    },
+    {
+      "id": 34,
+      "ocupado": false
+    }
+  ],
+  "bloquesLibres": 35,
+  "archivos": {}
+}
